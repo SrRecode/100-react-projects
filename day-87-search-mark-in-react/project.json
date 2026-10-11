@@ -1,0 +1,18 @@
+{
+  "day": 87,
+  "title": "Search Mark in React",
+  "slug": "day-87-search-mark-in-react",
+  "kind": "search",
+  "description": "A focused, independent browser app inspired by \"Search Mark in React\". Explore the workflow and keep demo data on this device.",
+  "workspaceTitle": "Discovery workspace",
+  "itemLabel": "Result",
+  "metricLabel": "Entries tracked",
+  "sideTitle": "Find what matters",
+  "sideCopy": "Your data stays on this device. This focused demo helps you explore the workflow and extend it safely.",
+  "tip": "Start with one result at a time. Turn the useful parts into a workflow that works for you.",
+  "samples": [
+    "Featured result",
+    "Recently added entry",
+    "Recommended match"
+  ]
+}

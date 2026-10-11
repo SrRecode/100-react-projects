@@ -1,0 +1,18 @@
+{
+  "day": 83,
+  "title": "React Firebase Authentication Tutorial",
+  "slug": "day-83-react-firebase-authentication-tutorial",
+  "kind": "auth",
+  "description": "A focused, independent browser app inspired by \"React Firebase Authentication Tutorial\". Explore the workflow and keep demo data on this device.",
+  "workspaceTitle": "Secure access demo",
+  "itemLabel": "Account",
+  "metricLabel": "Access status",
+  "sideTitle": "Safe by design",
+  "sideCopy": "Your data stays on this device. This focused demo helps you explore the workflow and extend it safely.",
+  "tip": "Start with one account at a time. Turn the useful parts into a workflow that works for you.",
+  "samples": [
+    "Account security review",
+    "Configure member access",
+    "Add recovery contact"
+  ]
+}

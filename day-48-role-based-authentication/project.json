@@ -1,0 +1,18 @@
+{
+  "day": 48,
+  "title": "Role Based Authentication",
+  "slug": "day-48-role-based-authentication",
+  "kind": "auth",
+  "description": "A focused, independent browser app inspired by \"Role Based Authentication\". Explore the workflow and keep demo data on this device.",
+  "workspaceTitle": "Secure access demo",
+  "itemLabel": "Account",
+  "metricLabel": "Access status",
+  "sideTitle": "Safe by design",
+  "sideCopy": "Your data stays on this device. This focused demo helps you explore the workflow and extend it safely.",
+  "tip": "Start with one account at a time. Turn the useful parts into a workflow that works for you.",
+  "samples": [
+    "Account security review",
+    "Configure member access",
+    "Add recovery contact"
+  ]
+}

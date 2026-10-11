@@ -1,0 +1,18 @@
+{
+  "day": 3,
+  "title": "Build image finder from internet",
+  "slug": "day-03-build-image-finder-from-internet",
+  "kind": "media",
+  "description": "Search Wikimedia Commons for real image references, preview results, and open source pages to check attribution and licensing.",
+  "workspaceTitle": "File workspace",
+  "itemLabel": "Asset",
+  "metricLabel": "Entries tracked",
+  "sideTitle": "Your files stay yours",
+  "sideCopy": "Your data stays on this device. This focused demo helps you explore the workflow and extend it safely.",
+  "tip": "Start with one asset at a time. Turn the useful parts into a workflow that works for you.",
+  "samples": [
+    "Choose a file to process",
+    "Review supported formats",
+    "Export the finished result"
+  ]
+}

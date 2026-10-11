@@ -1,0 +1,18 @@
+{
+  "day": 88,
+  "title": "File Rename App in React",
+  "slug": "day-88-file-rename-app-in-react",
+  "kind": "media",
+  "description": "A focused, independent browser app inspired by \"File Rename App in React\". Explore the workflow and keep demo data on this device.",
+  "workspaceTitle": "File workspace",
+  "itemLabel": "Asset",
+  "metricLabel": "Entries tracked",
+  "sideTitle": "Your files stay yours",
+  "sideCopy": "Your data stays on this device. This focused demo helps you explore the workflow and extend it safely.",
+  "tip": "Start with one asset at a time. Turn the useful parts into a workflow that works for you.",
+  "samples": [
+    "Choose a file to process",
+    "Review supported formats",
+    "Export the finished result"
+  ]
+}

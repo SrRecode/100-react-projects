@@ -1,0 +1,18 @@
+{
+  "day": 66,
+  "title": "React Debouncing Optimized Search",
+  "slug": "day-66-react-debouncing-optimized-search",
+  "kind": "search",
+  "description": "A focused, independent browser app inspired by \"React Debouncing Optimized Search\". Explore the workflow and keep demo data on this device.",
+  "workspaceTitle": "Discovery workspace",
+  "itemLabel": "Result",
+  "metricLabel": "Entries tracked",
+  "sideTitle": "Find what matters",
+  "sideCopy": "Your data stays on this device. This focused demo helps you explore the workflow and extend it safely.",
+  "tip": "Start with one result at a time. Turn the useful parts into a workflow that works for you.",
+  "samples": [
+    "Featured result",
+    "Recently added entry",
+    "Recommended match"
+  ]
+}

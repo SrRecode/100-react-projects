@@ -1,0 +1,18 @@
+{
+  "day": 17,
+  "title": "React AI Project Language Translator",
+  "slug": "day-17-react-ai-project-language-translator",
+  "kind": "generator",
+  "description": "A focused, independent browser app inspired by \"React AI Project Language Translator\". Explore the workflow and keep demo data on this device.",
+  "workspaceTitle": "Creation studio",
+  "itemLabel": "Variation",
+  "metricLabel": "Entries tracked",
+  "sideTitle": "Start with a spark",
+  "sideCopy": "Your data stays on this device. This focused demo helps you explore the workflow and extend it safely.",
+  "tip": "Start with one variation at a time. Turn the useful parts into a workflow that works for you.",
+  "samples": [
+    "First variation",
+    "A fresh direction",
+    "Saved inspiration"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "day": 15,
+  "title": "Build Export to CSV in React",
+  "slug": "day-15-build-export-to-csv-in-react",
+  "kind": "planner",
+  "description": "Edit a data grid, import and parse CSV files, and export escaped, spreadsheet-friendly CSV.",
+  "workspaceTitle": "Project workspace",
+  "itemLabel": "Entry",
+  "metricLabel": "Entries tracked",
+  "sideTitle": "Make steady progress",
+  "sideCopy": "Your data stays on this device. This focused demo helps you explore the workflow and extend it safely.",
+  "tip": "Start with one entry at a time. Turn the useful parts into a workflow that works for you.",
+  "samples": [
+    "First priority",
+    "Review and refine",
+    "Next small improvement"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "day": 61,
+  "title": "Build Sticky Notes App in React",
+  "slug": "day-61-build-sticky-notes-app-in-react",
+  "kind": "editor",
+  "description": "A focused, independent browser app inspired by \"Build Sticky Notes App in React\". Explore the workflow and keep demo data on this device.",
+  "workspaceTitle": "Writing canvas",
+  "itemLabel": "Note",
+  "metricLabel": "Entries tracked",
+  "sideTitle": "Keep the signal",
+  "sideCopy": "Your data stays on this device. This focused demo helps you explore the workflow and extend it safely.",
+  "tip": "Start with one note at a time. Turn the useful parts into a workflow that works for you.",
+  "samples": [
+    "Untitled note",
+    "Ideas to revisit",
+    "Project observations"
+  ]
+}

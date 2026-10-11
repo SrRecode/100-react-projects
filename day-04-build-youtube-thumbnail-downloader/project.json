@@ -1,0 +1,18 @@
+{
+  "day": 4,
+  "title": "Build YouTube Thumbnail Downloader",
+  "slug": "day-04-build-youtube-thumbnail-downloader",
+  "kind": "planner",
+  "description": "Extract a video ID from a YouTube link, preview available thumbnail sizes, and open the selected image for saving.",
+  "workspaceTitle": "Project workspace",
+  "itemLabel": "Entry",
+  "metricLabel": "Entries tracked",
+  "sideTitle": "Make steady progress",
+  "sideCopy": "Your data stays on this device. This focused demo helps you explore the workflow and extend it safely.",
+  "tip": "Start with one entry at a time. Turn the useful parts into a workflow that works for you.",
+  "samples": [
+    "First priority",
+    "Review and refine",
+    "Next small improvement"
+  ]
+}

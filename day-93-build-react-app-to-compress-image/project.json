@@ -1,0 +1,18 @@
+{
+  "day": 93,
+  "title": "Build React App to Compress Image",
+  "slug": "day-93-build-react-app-to-compress-image",
+  "kind": "media",
+  "description": "A focused, independent browser app inspired by \"Build React App to Compress Image\". Explore the workflow and keep demo data on this device.",
+  "workspaceTitle": "File workspace",
+  "itemLabel": "Asset",
+  "metricLabel": "Entries tracked",
+  "sideTitle": "Your files stay yours",
+  "sideCopy": "Your data stays on this device. This focused demo helps you explore the workflow and extend it safely.",
+  "tip": "Start with one asset at a time. Turn the useful parts into a workflow that works for you.",
+  "samples": [
+    "Choose a file to process",
+    "Review supported formats",
+    "Export the finished result"
+  ]
+}

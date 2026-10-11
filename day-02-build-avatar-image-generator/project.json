@@ -1,0 +1,18 @@
+{
+  "day": 2,
+  "title": "Build Avatar Image Generator",
+  "slug": "day-02-build-avatar-image-generator",
+  "kind": "generator",
+  "description": "Compose a custom illustrated avatar with adjustable colors, shape, expression, and initials, then download a crisp SVG profile image.",
+  "workspaceTitle": "Creation studio",
+  "itemLabel": "Variation",
+  "metricLabel": "Entries tracked",
+  "sideTitle": "Start with a spark",
+  "sideCopy": "Your data stays on this device. This focused demo helps you explore the workflow and extend it safely.",
+  "tip": "Start with one variation at a time. Turn the useful parts into a workflow that works for you.",
+  "samples": [
+    "First variation",
+    "A fresh direction",
+    "Saved inspiration"
+  ]
+}

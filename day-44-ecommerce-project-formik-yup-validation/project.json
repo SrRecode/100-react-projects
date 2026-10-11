@@ -1,0 +1,18 @@
+{
+  "day": 44,
+  "title": "Ecommerce Project | Formik Yup Validation",
+  "slug": "day-44-ecommerce-project-formik-yup-validation",
+  "kind": "commerce",
+  "description": "A focused, independent browser app inspired by \"Ecommerce Project | Formik Yup Validation\". Explore the workflow and keep demo data on this device.",
+  "workspaceTitle": "Storefront preview",
+  "itemLabel": "Order",
+  "metricLabel": "Cart quantity",
+  "sideTitle": "A store without surprises",
+  "sideCopy": "Your data stays on this device. This focused demo helps you explore the workflow and extend it safely.",
+  "tip": "Start with one order at a time. Turn the useful parts into a workflow that works for you.",
+  "samples": [
+    "Everyday canvas tote",
+    "Ceramic pour-over set",
+    "Studio pencil bundle"
+  ]
+}

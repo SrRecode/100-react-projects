@@ -1,0 +1,18 @@
+{
+  "day": 9,
+  "title": "Build QR Code Generator in React",
+  "slug": "day-09-build-qr-code-generator-in-react",
+  "kind": "generator",
+  "description": "Turn text or a short URL into a standards-based QR code entirely in your browser, with a downloadable SVG.",
+  "workspaceTitle": "Creation studio",
+  "itemLabel": "Variation",
+  "metricLabel": "Entries tracked",
+  "sideTitle": "Start with a spark",
+  "sideCopy": "Your data stays on this device. This focused demo helps you explore the workflow and extend it safely.",
+  "tip": "Start with one variation at a time. Turn the useful parts into a workflow that works for you.",
+  "samples": [
+    "First variation",
+    "A fresh direction",
+    "Saved inspiration"
+  ]
+}

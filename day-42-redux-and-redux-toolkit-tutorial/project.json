@@ -1,0 +1,18 @@
+{
+  "day": 42,
+  "title": "Redux & Redux Toolkit Tutorial",
+  "slug": "day-42-redux-and-redux-toolkit-tutorial",
+  "kind": "planner",
+  "description": "A focused, independent browser app inspired by \"Redux & Redux Toolkit Tutorial\". Explore the workflow and keep demo data on this device.",
+  "workspaceTitle": "Project workspace",
+  "itemLabel": "Entry",
+  "metricLabel": "Entries tracked",
+  "sideTitle": "Make steady progress",
+  "sideCopy": "Your data stays on this device. This focused demo helps you explore the workflow and extend it safely.",
+  "tip": "Start with one entry at a time. Turn the useful parts into a workflow that works for you.",
+  "samples": [
+    "First priority",
+    "Review and refine",
+    "Next small improvement"
+  ]
+}

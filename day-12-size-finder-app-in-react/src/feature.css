@@ -1,0 +1,20 @@
+.fit-grid{display:grid;grid-template-columns:minmax(270px,.85fr) minmax(0,1.15fr);gap:14px}
+.fit-form,.fit-result{border:1px solid var(--border);border-radius:10px;padding:20px;background:var(--panel)}
+.fit-form>small,.fit-result>small{color:var(--muted);font:9px var(--mono);letter-spacing:.08em}
+.fit-form>.fit-options{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:14px 0}
+.fit-options label,.fit-ease{display:flex;flex-direction:column;gap:6px;color:#c6c8bd;font-size:11px}
+.fit-ease{margin:14px 0}
+.measurement-field{display:flex;flex-direction:column;gap:6px;margin:13px 0;color:#c6c8bd;font-size:11px}
+.measurement-field>span{position:relative}
+.measurement-field>span input{padding-right:38px}
+.measurement-field>span small{position:absolute;right:11px;top:13px;color:var(--muted);font:10px var(--mono)}
+.fit-size{display:block;margin:14px 0 4px;color:var(--lime);font:500 70px/.95 var(--display)}
+.fit-result>h2{margin:10px 0;font:500 17px var(--display)}
+.fit-result>p{max-width:48ch;margin:0 0 14px;color:var(--muted);font-size:11px;line-height:1.7}
+.size-chart{overflow-x:auto;margin-top:18px}
+.size-chart table{width:100%;border-collapse:collapse;text-align:left;font-size:10px}
+.size-chart caption{padding:8px;color:var(--muted);text-align:left}
+.size-chart th,.size-chart td{border-bottom:1px solid var(--border);padding:8px}
+.size-chart th{color:#d9dccf;font-weight:600}
+.size-chart td{color:var(--muted)}
+@media(max-width:760px){.fit-grid{grid-template-columns:1fr}}

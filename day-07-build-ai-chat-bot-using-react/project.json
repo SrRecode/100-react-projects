@@ -1,0 +1,18 @@
+{
+  "day": 7,
+  "title": "Build AI Chat Bot using React",
+  "slug": "day-07-build-ai-chat-bot-using-react",
+  "kind": "planner",
+  "description": "A private, offline chat demo with rule-based planning, writing, and focus prompts; connect an AI provider for generated replies.",
+  "workspaceTitle": "Project workspace",
+  "itemLabel": "Entry",
+  "metricLabel": "Entries tracked",
+  "sideTitle": "Make steady progress",
+  "sideCopy": "Your data stays on this device. This focused demo helps you explore the workflow and extend it safely.",
+  "tip": "Start with one entry at a time. Turn the useful parts into a workflow that works for you.",
+  "samples": [
+    "First priority",
+    "Review and refine",
+    "Next small improvement"
+  ]
+}

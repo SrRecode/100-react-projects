@@ -1,0 +1,18 @@
+{
+  "day": 26,
+  "title": "Build React World`s Timer",
+  "slug": "day-26-build-react-world-s-timer",
+  "kind": "timer",
+  "description": "A focused, independent browser app inspired by \"Build React World`s Timer\". Explore the workflow and keep demo data on this device.",
+  "workspaceTitle": "Focus timer",
+  "itemLabel": "Session",
+  "metricLabel": "Sessions today",
+  "sideTitle": "Build a better rhythm",
+  "sideCopy": "Your data stays on this device. This focused demo helps you explore the workflow and extend it safely.",
+  "tip": "Start with one session at a time. Turn the useful parts into a workflow that works for you.",
+  "samples": [
+    "Plan a deep-work block",
+    "Queue your next session",
+    "Review today's focus"
+  ]
+}

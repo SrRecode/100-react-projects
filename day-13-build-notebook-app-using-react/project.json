@@ -1,0 +1,18 @@
+{
+  "day": 13,
+  "title": "Build notebook app using react",
+  "slug": "day-13-build-notebook-app-using-react",
+  "kind": "editor",
+  "description": "Create, search, pin, autosave, and export notes in a multi-page notebook stored in browser storage.",
+  "workspaceTitle": "Writing canvas",
+  "itemLabel": "Note",
+  "metricLabel": "Entries tracked",
+  "sideTitle": "Keep the signal",
+  "sideCopy": "Your data stays on this device. This focused demo helps you explore the workflow and extend it safely.",
+  "tip": "Start with one note at a time. Turn the useful parts into a workflow that works for you.",
+  "samples": [
+    "Untitled note",
+    "Ideas to revisit",
+    "Project observations"
+  ]
+}

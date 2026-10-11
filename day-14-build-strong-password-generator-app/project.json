@@ -1,0 +1,18 @@
+{
+  "day": 14,
+  "title": "Build Strong Password Generator App",
+  "slug": "day-14-build-strong-password-generator-app",
+  "kind": "generator",
+  "description": "Generate configurable strong passwords with Web Crypto, character groups, adjustable length, and no password storage.",
+  "workspaceTitle": "Creation studio",
+  "itemLabel": "Variation",
+  "metricLabel": "Entries tracked",
+  "sideTitle": "Start with a spark",
+  "sideCopy": "Your data stays on this device. This focused demo helps you explore the workflow and extend it safely.",
+  "tip": "Start with one variation at a time. Turn the useful parts into a workflow that works for you.",
+  "samples": [
+    "First variation",
+    "A fresh direction",
+    "Saved inspiration"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "day": 77,
+  "title": "Design Star Review Rating UI in React",
+  "slug": "day-77-design-star-review-rating-ui-in-react",
+  "kind": "planner",
+  "description": "A focused, independent browser app inspired by \"Design Star Review Rating UI in React\". Explore the workflow and keep demo data on this device.",
+  "workspaceTitle": "Project workspace",
+  "itemLabel": "Entry",
+  "metricLabel": "Entries tracked",
+  "sideTitle": "Make steady progress",
+  "sideCopy": "Your data stays on this device. This focused demo helps you explore the workflow and extend it safely.",
+  "tip": "Start with one entry at a time. Turn the useful parts into a workflow that works for you.",
+  "samples": [
+    "First priority",
+    "Review and refine",
+    "Next small improvement"
+  ]
+}

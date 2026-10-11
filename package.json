@@ -1,0 +1,12 @@
+{
+  "name": "react-projects-collection",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "gradient-generator",
+    "day-*"
+  ],
+  "scripts": {
+    "build:apps": "npm run build --workspaces --if-present"
+  }
+}

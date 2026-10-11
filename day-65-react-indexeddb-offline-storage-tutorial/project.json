@@ -1,0 +1,18 @@
+{
+  "day": 65,
+  "title": "React IndexedDB Offline Storage Tutorial",
+  "slug": "day-65-react-indexeddb-offline-storage-tutorial",
+  "kind": "planner",
+  "description": "A focused, independent browser app inspired by \"React IndexedDB Offline Storage Tutorial\". Explore the workflow and keep demo data on this device.",
+  "workspaceTitle": "Project workspace",
+  "itemLabel": "Entry",
+  "metricLabel": "Entries tracked",
+  "sideTitle": "Make steady progress",
+  "sideCopy": "Your data stays on this device. This focused demo helps you explore the workflow and extend it safely.",
+  "tip": "Start with one entry at a time. Turn the useful parts into a workflow that works for you.",
+  "samples": [
+    "First priority",
+    "Review and refine",
+    "Next small improvement"
+  ]
+}

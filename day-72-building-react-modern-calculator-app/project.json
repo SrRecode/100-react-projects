@@ -1,0 +1,18 @@
+{
+  "day": 72,
+  "title": "Building React Modern Calculator App",
+  "slug": "day-72-building-react-modern-calculator-app",
+  "kind": "calculator",
+  "description": "A focused, independent browser app inspired by \"Building React Modern Calculator App\". Explore the workflow and keep demo data on this device.",
+  "workspaceTitle": "Quick calculator",
+  "itemLabel": "Measurement",
+  "metricLabel": "Entries tracked",
+  "sideTitle": "Numbers, made simple",
+  "sideCopy": "Your data stays on this device. This focused demo helps you explore the workflow and extend it safely.",
+  "tip": "Start with one measurement at a time. Turn the useful parts into a workflow that works for you.",
+  "samples": [
+    "Starting measurement",
+    "Compare a second value",
+    "Save the result"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "day": 16,
+  "title": "React Visiting Card Generator",
+  "slug": "day-16-react-visiting-card-generator",
+  "kind": "generator",
+  "description": "Design a visiting card with live details and color themes, then export vector SVG artwork or print it.",
+  "workspaceTitle": "Creation studio",
+  "itemLabel": "Variation",
+  "metricLabel": "Entries tracked",
+  "sideTitle": "Start with a spark",
+  "sideCopy": "Your data stays on this device. This focused demo helps you explore the workflow and extend it safely.",
+  "tip": "Start with one variation at a time. Turn the useful parts into a workflow that works for you.",
+  "samples": [
+    "First variation",
+    "A fresh direction",
+    "Saved inspiration"
+  ]
+}
