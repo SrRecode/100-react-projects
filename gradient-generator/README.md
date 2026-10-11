@@ -1,6 +1,6 @@
 # Chromatic Atlas
 
-A small animated-gradient studio for building CSS backgrounds. Switch between linear, radial, and conic gradients, tune color stops and motion, save named studies on this device, and copy the generated CSS.
+A small animated-gradient studio for building CSS backgrounds. This is Day 1 of the collection and is independently runnable from the `gradient-generator` folder.
 
 ## Use the studio
 
@@ -10,13 +10,32 @@ A small animated-gradient studio for building CSS backgrounds. Switch between li
 - Pause or play the preview and save named studies in browser storage for later.
 - Copy the generated CSS from the page header or the code panel.
 
-Saved studies stay in this browser and are not uploaded. The preview respects the operating system's reduced-motion setting. The generated CSS remains editable and includes the gradient's keyframes.
+Saved studies stay in this browser and are not uploaded. The preview respects the operating system's reduced-motion setting. The generated CSS remains editable and includes the gradient's keyframes. There is no server-side account or cloud synchronization.
 
-## Development
+## Requirements
+
+- Node.js 20.19+ or 22.12+
+- npm
+- A current browser
+
+## Run locally
 
 ```sh
 npm install
 npm run dev
 ```
 
-Run `npm run lint` to lint the project and `npm run build` to create a production build in `dist/`.
+Vite prints the local development URL. From this folder:
+
+- `npm run build` creates the production bundle in `dist/`.
+- `npm run preview` serves the production bundle locally after a build.
+- `npm run lint` runs ESLint.
+
+## Main implementation
+
+- `src/main.jsx` boots the React app.
+- `src/App.jsx` contains the gradient studio interface and interactions.
+- `src/index.css` and the Tailwind/Vite configuration provide the visual system.
+- Named studies are kept in this browser's local storage. Clear browser storage to remove them; export or copy CSS if you want a separate backup.
+
+See the [collection guide](../README.md) for all 100 projects and the optional root workspace commands.
